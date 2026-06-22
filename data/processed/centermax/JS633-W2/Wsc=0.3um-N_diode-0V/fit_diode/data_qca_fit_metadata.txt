@@ -1,0 +1,17 @@
+{
+    "git_commit": "b3c7cda",
+    "command": "/home/wfsch/repos/shabanipy/scripts/jj/fit_diode.py ../data/centermax/JS633-W2/Wsc=0.3um-N_diode-0V/data_qca.csv --quiet --icp_err_col=rmse+ --icm_err_col=rmse- --bmax 0.150",
+    "args": {
+        "datapath": "../data/centermax/JS633-W2/Wsc=0.3um-N_diode-0V/data_qca.csv",
+        "bcol": null,
+        "icp_col": "ic+ from fit",
+        "icm_col": "ic- from fit",
+        "icp_err_col": "rmse+",
+        "icm_err_col": "rmse-",
+        "bmax": 0.15,
+        "bmask": null,
+        "invert_current": false,
+        "remove_zero_field_offset": false,
+        "quiet": true
+    }
+}

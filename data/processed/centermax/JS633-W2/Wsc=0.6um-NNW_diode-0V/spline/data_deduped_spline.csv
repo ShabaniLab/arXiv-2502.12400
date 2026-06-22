@@ -1,0 +1,2 @@
+ic_argmin,ic_argmax,ic_min,ic_max,delta_argmin,delta_argmax,delta_min,delta_max,eta_argmin,eta_argmax,eta_min,eta_max,datapath,bcol,icp_col,icm_col,delta_col,eta_col,bmax,quiet
+-0.006400000000032324,0.004299999999966497,-3.2808933153934157e-06,3.2785342384871375e-06,-0.1291000000000188,0.12809999999995286,-2.5632793448608234e-07,2.4855085649768556e-07,-0.14750000000001678,0.1412999999999514,-0.05560844515981825,0.0535415363044699,../data/centermax/JS633-W2/Wsc=0.6um-NNW_diode-0V/data_deduped.csv,,ic+ from fit,ic- from fit,delta,eta,0.3,True

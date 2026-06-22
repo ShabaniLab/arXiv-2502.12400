@@ -1,0 +1,12 @@
+{
+    "git_commit": "20bef92",
+    "command": "centermax.py -f configs/JS633-W2.ini Wsc=0.6um-NNW_diode-angle-125mT",
+    "args": {
+        "config_path": "configs/JS633-W2.ini",
+        "config_section": "Wsc=0.6um-NNW_diode-angle-125mT",
+        "branch": "+-",
+        "offset_npoints": null,
+        "force_write": true,
+        "debug": false
+    }
+}

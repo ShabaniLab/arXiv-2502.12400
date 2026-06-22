@@ -1,0 +1,12 @@
+{
+    "git_commit": "9bae589",
+    "command": "centermax.py -f configs/JS633-W2.ini Wsc=1.2um-E_diode-3.5V",
+    "args": {
+        "config_path": "configs/JS633-W2.ini",
+        "config_section": "Wsc=1.2um-E_diode-3.5V",
+        "branch": "+-",
+        "offset_npoints": null,
+        "force_write": true,
+        "debug": false
+    }
+}

@@ -1,0 +1,2 @@
+imax,b,c,bstar,imax_err,b_err,c_err,bstar_err,ndata,chisqr,redchi,rsquared,datapath,bcol,icp_col,icm_col,icp_err_col,icm_err_col,bmax,bmask,invert_current,remove_zero_field_offset,quiet
+3.5299128725596787e-06,21.82336354102672,0.3552811193938298,0.02826338194465713,0.0,1.0008513348960297,0.057123385275416015,0.0023052232542855873,28,1.278463951985354e-14,5.113855807941416e-16,0.9899594434644692,../data/centermax/JS633-W2/Wsc=1.2um-E_diode+10V/data_qca.csv,,ic+ from fit,ic- from fit,rmse+,rmse-,0.095,,False,False,True

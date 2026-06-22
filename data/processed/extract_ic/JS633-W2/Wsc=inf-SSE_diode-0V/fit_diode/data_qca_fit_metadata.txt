@@ -1,0 +1,17 @@
+{
+    "git_commit": "b3c7cda",
+    "command": "/home/wfsch/repos/shabanipy/scripts/jj/fit_diode.py ../data/extract_ic/JS633-W2/Wsc=inf-SSE_diode-0V/data_qca.csv --quiet --icp_err_col=rmse+ --icm_err_col=rmse- --bmax 0.060 --icp_col ic+ --icm_col ic-",
+    "args": {
+        "datapath": "../data/extract_ic/JS633-W2/Wsc=inf-SSE_diode-0V/data_qca.csv",
+        "bcol": null,
+        "icp_col": "ic+",
+        "icm_col": "ic-",
+        "icp_err_col": "rmse+",
+        "icm_err_col": "rmse-",
+        "bmax": 0.06,
+        "bmask": null,
+        "invert_current": false,
+        "remove_zero_field_offset": false,
+        "quiet": true
+    }
+}

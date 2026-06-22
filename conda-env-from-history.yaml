@@ -1,0 +1,17 @@
+name: diode
+channels:
+  - defaults
+dependencies:
+  - ipython
+  - matplotlib
+  - numpy
+  - python=3.9
+  - scipy
+  - h5py
+  - lmfit
+  - pandas
+  - pre-commit
+  - black=23.3.0
+  - numba
+  - ruff
+prefix: /home/wfsch/miniconda3/envs/diode

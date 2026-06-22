@@ -1,0 +1,8 @@
+{
+    "git_commit": "3d367a1",
+    "command": "extract_densities_mobilities.py configs/JS633-W2.ini density-mobility",
+    "args": {
+        "config_path": "configs/JS633-W2.ini",
+        "config_section": "density-mobility"
+    }
+}

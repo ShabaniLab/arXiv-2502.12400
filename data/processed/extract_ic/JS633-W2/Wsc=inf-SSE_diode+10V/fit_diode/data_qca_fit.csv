@@ -1,0 +1,2 @@
+imax,b,c,bstar,imax_err,b_err,c_err,bstar_err,ndata,chisqr,redchi,rsquared,datapath,bcol,icp_col,icm_col,icp_err_col,icm_err_col,bmax,bmask,invert_current,remove_zero_field_offset,quiet
+4.63e-06,44.18418499513846,0.5492571812037754,0.038862694472188965,0.0,7.70908335049125,0.09457847726679784,0.001675713763721041,100,1.3766930397172673e-13,1.419271174966255e-15,0.9819534728405764,../data/extract_ic/JS633-W2/Wsc=inf-SSE_diode+10V/data_qca.csv,,ic+,ic-,rmse+,rmse-,0.06,0.01,False,False,True

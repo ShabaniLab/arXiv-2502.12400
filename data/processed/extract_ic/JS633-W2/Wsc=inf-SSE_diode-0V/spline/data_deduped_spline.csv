@@ -1,0 +1,2 @@
+ic_argmin,ic_argmax,ic_min,ic_max,delta_argmin,delta_argmax,delta_min,delta_max,eta_argmin,eta_argmax,eta_min,eta_max,datapath,bcol,icp_col,icm_col,delta_col,eta_col,bmax,quiet
+-0.016600000000019988,0.02099999999997587,-5.3930103159751536e-06,5.4091195069001545e-06,-0.0792000000000131,0.07769999999996963,-1.4338844216954675e-06,1.20722960842707e-06,-0.08920000000001199,0.09189999999996806,-0.17499815927810794,0.15537391030200276,../data/extract_ic/JS633-W2/Wsc=inf-SSE_diode-0V/data_deduped.csv,,ic+ smoothed,ic- smoothed,delta smoothed,eta smoothed,0.2,True

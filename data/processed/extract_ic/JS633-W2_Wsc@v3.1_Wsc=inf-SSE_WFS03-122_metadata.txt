@@ -1,0 +1,22 @@
+{
+    "git_commit": "9bae589",
+    "command": "extract_ic.py --ch_measured source/fundamental - Value --ch_source_ac source/fundamental - Value --resistor_ac 1e6 --ch_source_dc Yoko - Voltage --resistor_dc 1e6 --ch_variable VectorMagnet - Field Z --ignore_npoints 6 --vmin=0 --vmax=500 --branch +- --datapath 2023/10/Data_1018/JS633-W2_Wsc@v3.1_Wsc=inf-SSE_WFS03-122.hdf5 --no-show",
+    "args": {
+        "config_path": null,
+        "config_section": null,
+        "datapath": "2023/10/Data_1018/JS633-W2_Wsc@v3.1_Wsc=inf-SSE_WFS03-122.hdf5",
+        "ch_measured": "source/fundamental - Value",
+        "ch_source_dc": "Yoko - Voltage",
+        "ch_variable": "VectorMagnet - Field Z",
+        "threshold": null,
+        "offset_npoints": null,
+        "ignore_npoints": 6,
+        "branch": "+-",
+        "resistor_dc": 1000000.0,
+        "resistor_ac": 1000000.0,
+        "ch_source_ac": "source/fundamental - Value",
+        "vmin": 0.0,
+        "vmax": 500.0,
+        "no_show": true
+    }
+}
