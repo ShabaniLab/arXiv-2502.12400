@@ -1,4 +1,6 @@
 # arXiv:2502.12400
+[![DOI](https://zenodo.org/badge/1276407867.svg)](https://doi.org/10.5281/zenodo.20789703)
+
 Figures and analysis for [arXiv:2502.12400](https://arxiv.org/abs/2502.12400)
 
 ## Running the data analysis
